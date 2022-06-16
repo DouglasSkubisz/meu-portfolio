@@ -116,7 +116,7 @@ main h2{
 }
 main h3{
     margin: 13px 1px;
-    font-size: 1em;
+    font-size: 1.1em;
 }
 main p{
     margin-bottom: 15px;
@@ -154,7 +154,7 @@ section p a:hover{
 }
 .iconmain{
     padding: 0px .1em 0px .2em;
-    font-size: 1.2em;
+    font-size: 1.3em;
 }
 #html5:hover{
     color: #E44D26;
