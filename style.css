@@ -13,8 +13,8 @@ a{
     text-decoration: none;
 }
 .header{
-    background-image: url(imagens/fundocel.jpg);
-    background-position: center top;
+    background-image: url(imagens/header\ grandao.jpg);
+    background-position: right center;
     background-size: cover;
 }
 header{
@@ -25,6 +25,9 @@ header{
 #imgheader{
     width: 150px;
     margin-top: 4px;
+    border-radius: 50%;
+    border: 2px solid #44CFB8;
+    box-shadow: 0px 0px 15px #44CFB8;
 }
 header h1{
     margin: 0;
@@ -254,7 +257,7 @@ section p a:hover{
     }
     main h2 {
         font-size: 1.5em;
-        background-image: linear-gradient(to right, #0c104de5, #310622e3);
+        background-image:url(imagens/h210.png), linear-gradient(to right, rgba(12, 16, 75, 0.726),rgba(50, 6, 35, 0.664));
     }
     main h3 {
         font-size: 1.4em;
